@@ -57,7 +57,7 @@ The notebook walks through every stage of an ML workflow — from **data preproc
 
 ---
 ## 📊 Results
-- 📈 Model Accuracy: Add final accuracy here (e.g., 94.3%)
-- 📉 Loss: Add loss value here (e.g., 0.12)
-- 🔍 Insights: E.g., “Feature X had the strongest impact on predictions.”
+- 📈 Model Accuracy: Add final accuracy here (85.33%)
+- 📉 Loss: Add loss value here (approx 41.69%)
+
 ---
